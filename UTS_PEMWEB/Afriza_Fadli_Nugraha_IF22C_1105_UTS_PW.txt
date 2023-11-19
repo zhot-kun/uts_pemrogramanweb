@@ -1,0 +1,37 @@
+Nama  : Afriza Fadli Nugraha
+NIM   : 22416255201105
+Kelas : IF22C
+UTS Pemograman Web
+
+SUB-CMK-1
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, 
+bukan secara harfiah/istilah)
+
+jawaban : framework itu adalah cara kerja dalam pengembangan perangkat lunak yang menyediakan aturan 
+	  dan alat bantu untuk memudahkan untuk pembuatan aplikasi dan system(tidak ngoding dari awal)
+	  tujuan untuk mempercepat pengembangan dengan menyediakan pondasi yang dapat digunakan Kembali.
+	  Contoh nya yang sering dipakai dalam teori ataupun praktikum mata kuliah PEMWEB yaitu bootstrap. 
+	  adapun framework lainnya seperti laravel dll.
+
+SUB-CPMK-2
+2. 	1. Sebutkan tema proyek yang sedang digarap!
+	   jawaban : - tema projek yang sedang kami garap "sistem informasi akademik"
+	2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+	  
+	 jawaban : - Lukman Saputra : frontend - ngoding
+		     - Afriza : backend - database
+		     - Rifenkha alwa Ramadhani : analisis masalah(opsional, diwajibkan semua anggota), membuat laporan
+		       pada dasarnya semua anggota ikut mengerjakan semua sesi yang sedang digarap
+ 
+	3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian 
+	   usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+	   
+	   jawaban : dari hasil wawancara langsung kepada narasumber "Kepala Sekolah MAA 12 rabiul awwal", 
+		     mendapati sejumlah masalah seputar sistem informasi akademik yang ada pada sekolah tersebut, diantaranya;
+		     -masih manual dalam menginput nilai hasil ujian, nama peserta didik, nama guru, dan absen yang masih manual
+		     -tidak adanya database yang proper untuk menampung semua informasi yang ada di sekolah
+		     dan solusi yang kami tawarkan ingin membuatkan aplikasi sistem informasi akademik berbasis web
+		     dengan dasar permasalahan yang ada pada rincian diatas,
+		     namun hanya bisa diakses oleh internal sekolah(admin sekolah) untuk database sekolah yang proper,
+		     mengapa hanya dipakai oleh internal sekolah? karena sekolah tersebut diperuntukan untuk masyarakat 
+		     yang kurang mampu, jadi ga semua siswa sudah punya hp/perangkat elektronik.
